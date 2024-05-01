@@ -1,0 +1,10 @@
+[package]
+name = "gui"
+version = "0.1.0"
+edition = "2021"
+authors = ["Lut99"]
+repository = "https://github.com/Lut99/gui-rs"
+description = "A simple (I hope lol) GUI engine written for [egui](https://github.com/emilk/egui), with [winit](https://github.com/rust-windowing/winit) and [wgpu](https://github.com/gfx-rs/wgpu)."
+
+
+[dependencies]
